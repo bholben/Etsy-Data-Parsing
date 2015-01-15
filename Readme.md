@@ -1,6 +1,4 @@
-# 01.15.15 
-
-___This homework is due by 8am, on 01/19/15___
+Deliverable: [http://bholben.github.io/Etsy-Data-Parsing/](http://bholben.github.io/Etsy-Data-Parsing/)
 
 ## Homework
 
