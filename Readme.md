@@ -11,4 +11,5 @@ Loop through array of data objects pulled from Etsy's API
 ### How to use it
 
 From command line:  
+  * `git clone git@github.com:bholben/Etsy-Data-Parsing.git`  
 
